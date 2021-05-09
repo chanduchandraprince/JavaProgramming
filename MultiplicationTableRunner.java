@@ -3,7 +3,7 @@ public void MultiplicationTableRunner
 {
 public static void main(String args[])
 {
-MultiplicationTable table=new MultiplicationTable();
+MultiplicationTable table = new MultiplicationTable();
 table.print();
 }
 }
