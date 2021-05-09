@@ -1,5 +1,5 @@
 package chandu.kavya;
-public void MultiplicationTableRunner
+public void MultiplicationTableRunner()
 {
 public static void main(String args[])
 {
