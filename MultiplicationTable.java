@@ -1,4 +1,4 @@
-package chandu.kavya;
+package chandu_kavya.MultiplicationTable;
 public class MultiplicationTable
 {
 void print()
